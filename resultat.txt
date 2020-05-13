@@ -1,0 +1,9 @@
+composant_1 =>Rectangle H 112.087 |  => 112.087 => classe rejet
+composant_2 =>Rectangle H 28.8371 |  => 28.8371 => Rectangle H
+composant_3 =>Rectangle H 28.8371 |  => 28.8371 => Rectangle H
+composant_4 =>Rectangle H 28.8371 |  => 28.8371 => Rectangle H
+composant_5 =>Rectangle H 28.8371 |  => 28.8371 => Rectangle H
+composant_6 =>Rectangle H 28.8371 |  => 28.8371 => Rectangle H
+composant_7 =>Rectangle H 28.8371 |  => 28.8371 => Rectangle H
+composant_8 =>Rectangle H 28.8371 |  => 28.8371 => Rectangle H
+composant_9 =>Rectangle H 28.8371 |  => 28.8371 => Rectangle H
